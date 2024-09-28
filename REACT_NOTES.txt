@@ -1,0 +1,6 @@
+why Do we need react?
+=> to make eadt to manage & build complex Front end.
+
+1.We create app using the npx create-react-app (name of app)
+npx => node package executer
+
